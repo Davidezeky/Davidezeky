@@ -1,4 +1,4 @@
-¡Hola! 👋✨
+¡Hola! [👋✨](https://www.emojiall.com/images/240/telegram/1f44b.gif)
 
 
 Soy David Romero, Desarrollador Full Stack interesado en crear soluciones eficientes y escalables con Python y Django. Me gusta mantenerme al día con las últimas tendencias tecnológicas y siempre busco nuevos desafíos para crecer y mejorar. 🚀
