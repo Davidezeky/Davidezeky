@@ -1,5 +1,6 @@
 ¡Hola! ![Saludo](https://media.giphy.com/media/3o7TKsK2jdpWJ75eJu/giphy.gif)
 
+
 Soy David Romero, Desarrollador Full Stack interesado en crear soluciones eficientes y escalables con Python y Django. Me gusta mantenerme al día con las últimas tendencias tecnológicas y siempre busco nuevos desafíos para crecer y mejorar. 🚀
 
 🔭 Actualmente, estoy trabajando en mejorar mis habilidades en análisis de datos y desarrollo backend.  
