@@ -4,4 +4,3 @@ Soy David Romero, Desarrollador Full Stack interesado en crear soluciones eficie
 🔭 Actualmente, estoy trabajando en mejorar mis habilidades en análisis de datos y desarrollo backend.
 🌱 Estoy aprendiendo más sobre ciencia de datos y tecnologías en la nube.
 👯 Me gustaría colaborar en proyectos de código abierto interesantes.
-💬 Pregúntame sobre Python, Django o cualquier tema relacionado con tecnología.
